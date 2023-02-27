@@ -10,7 +10,7 @@ Methodology:
     The code is written in java and is spanding between two class files. These files
 are Names.java and ManageNames.java. Names.java was the definition class for Name objects to be added into the ManageNames code. ManageNames is where the user can implement new additions to the list as well as displaying said list for optimized reading purposes. The user can create new name objects and display code using the base templates provided. The total number of names will automatically increase as the code runs depending on name objects present.
 
-    The code and application of said code has been used and tested by members
+The code and application of said code has been used and tested by members
 of writing intensive classes and approved by every user as working as intended.
 
 Results:
