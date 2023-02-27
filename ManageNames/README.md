@@ -1,4 +1,4 @@
-#CS 232 // Friend Contact list
+#CS 232 // name list
 
 This repository houses a java program constructed to be a simple name logging and displaying code.
 
